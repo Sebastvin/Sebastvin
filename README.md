@@ -1,8 +1,7 @@
 ## Hi there, I'm Sebastian, student, passionate about machine learning and AI in general.
 
 - :fire: Currently, I am focusing on the development and learning of ML
-- :boom: I’m looking to collaborate with other content creators
-- :battery: 2022 Goals: Contribute more to Open Source projects
+- :battery: 2022 Goals: Improve knowledge of machine learning and create some fancy projects
 - :star2: Fun fact, I created some games in Unity for google play:
     * [Ride It](https://play.google.com/store/apps/details?id=com.Pottack.Industry.RideIt&gl=PL) 
     * [Tap Tap Square](https://play.google.com/store/apps/details?id=com.X_Cherry.product&gl=PL)
@@ -26,7 +25,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />][flask]
 [<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />][scikit-learn]
 [<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
-
+[<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
 
 <br />
 <br />
@@ -46,4 +45,4 @@
 [flask]: https://flask.palletsprojects.com/en/2.0.x/
 [scikit-learn]: https://scikit-learn.org/stable/
 [unity]: https://unity.com/
-
+[git]: https://git-scm.com/
