@@ -1,16 +1,49 @@
-### Hi there 👋
+## Hi there, I'm Sebastian, student, passionate about machine learning and AI in general.
 
-<!--
-**Sebastvin/Sebastvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :fire: Currently, I am focusing on the development and learning of ML
+- :boom: I’m looking to collaborate with other content creators
+- :battery: 2022 Goals: Contribute more to Open Source projects
+- :star2: Fun fact, I created some games in Unity for google play:
+    * [Ride It](https://play.google.com/store/apps/details?id=com.Pottack.Industry.RideIt&gl=PL) 
+    * [Tap Tap Square](https://play.google.com/store/apps/details?id=com.X_Cherry.product&gl=PL)
 
-Here are some ideas to get you started:
+### Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px"  style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px"  style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Kaggle" width="22px"  style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="codeSTACKr | Kaggle" width="22px"  style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />][pycharm]
+[<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />][jupyter]
+[<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />][pandas]
+[<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" />][jupyter]
+[<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />][flask]
+[<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />][scikit-learn]
+[<img align="left" alt="Visual Studio Code" width="26px" style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
+
+
+<br />
+<br />
+
+---
+
+
+[website]: https://github.com/Sebastvin
+[kaggle]: https://www.kaggle.com/xcherry
+[hackerrank]: https://www.hackerrank.com/X_Cherry
+[youtube]: https://www.youtube.com/channel/UCGvS_z4LRt2ALa3bM70FlKA
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[python]: https://www.python.org/
+[pycharm]: https://www.jetbrains.com/pycharm/
+[jupyter]: https://jupyter.org/
+[pandas]: https://pandas.pydata.org/
+[flask]: https://flask.palletsprojects.com/en/2.0.x/
+[scikit-learn]: https://scikit-learn.org/stable/
+[unity]: https://unity.com/
+
