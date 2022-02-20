@@ -9,7 +9,6 @@
 ### Socials:
 
 [<img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px"  style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px"  style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Kaggle" width="22px"  style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="codeSTACKr | Kaggle" width="22px"  style="margin-left:.6em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
@@ -36,7 +35,6 @@
 [website]: https://github.com/Sebastvin
 [kaggle]: https://www.kaggle.com/xcherry
 [hackerrank]: https://www.hackerrank.com/X_Cherry
-[youtube]: https://www.youtube.com/channel/UCGvS_z4LRt2ALa3bM70FlKA
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [python]: https://www.python.org/
 [pycharm]: https://www.jetbrains.com/pycharm/
