@@ -32,7 +32,7 @@
 ---
 
 
-[website]: https://github.com/Sebastvin
+[website]: https://sebastian-malon.pl/
 [kaggle]: https://www.kaggle.com/xcherry
 [hackerrank]: https://www.hackerrank.com/X_Cherry
 [linkedin]: https://linkedin.com/in/codeSTACKr
