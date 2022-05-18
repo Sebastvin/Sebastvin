@@ -35,7 +35,7 @@
 [website]: https://sebastian-malon.pl/
 [kaggle]: https://www.kaggle.com/xcherry
 [hackerrank]: https://www.hackerrank.com/X_Cherry
-[linkedin]: [https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/sebastian-malon/)
+[linkedin]: https://www.linkedin.com/in/sebastian-malon
 [python]: https://www.python.org/
 [pycharm]: https://www.jetbrains.com/pycharm/
 [jupyter]: https://jupyter.org/
