@@ -13,7 +13,7 @@
 
 ### My featured projects :star:
 <code>[game-recommender](https://github.com/Sebastvin/game-recommender)</code> :fire:    
-<code>[quiz-website-app](https://github.com/Sebastvin/quiz-website-app)</code> :mask:   
+<code>[quiz-website-app](https://github.com/Sebastvin/quiz-website-app)</code> :speech_balloon:  
 
 
 <h3 align="left">Connect with me:</h3>
