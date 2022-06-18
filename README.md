@@ -1,6 +1,6 @@
 ![intro_github](https://user-images.githubusercontent.com/34211633/174446232-b5629863-6bdc-447f-aca7-2e8c20948000.png)
 
-<h1 align="center">Hi, I'm Sebastian</h1>
+<h1 align="center">Hi, I'm Sebastian :smile: </h1>
 
 
 <h3 align="left">About me:</h3>
